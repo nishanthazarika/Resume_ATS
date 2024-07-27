@@ -2,3 +2,4 @@ streamlit
 pickle
 re
 nltk
+gnnicorn
