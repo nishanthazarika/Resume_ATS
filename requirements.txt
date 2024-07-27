@@ -2,4 +2,4 @@ streamlit
 pickle
 re
 nltk
-gnnicorn
+gunicorn
